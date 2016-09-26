@@ -5,3 +5,5 @@ Tutorial based repository setup
 - Hands-on experience applying cloud-based & SaaS technologies to improve HR services in Thailand
 - Interest in Open Source development technologies, including node.js, AngularJS, and Rails, and mobile apps development 
 - Re-learning programming starting with Python and using GitHub
+
+All based on tutorial at https://guides.github.com/activities/hello-world/
